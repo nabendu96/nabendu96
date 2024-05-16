@@ -2,7 +2,7 @@
 - 👀 I’m interested in cosmological hydrodynamic simulations.
 - 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me nabendu.khan@theory.tifr.res.in
+- 📫 How to reach me nabendu.khan@tifr.res.in
 
 <!---
 nabendu96/nabendu96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
